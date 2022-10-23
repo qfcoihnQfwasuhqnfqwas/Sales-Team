@@ -4,16 +4,16 @@ function getInfo() {
 
 		// check is user input matches username and password of a current index of the objPeople array
 		if(username=="admin" && password=="admin"){
-			window.location.href="/user1/user.html"
+			window.location.href="/user1/index.html"
 		}
 		if(username=="2" && password=="2"){
-			window.location.href="/user2/user.html"
+			window.location.href="/user2/index.html"
 		}
 		if(username=="3" && password=="3"){
-			window.location.href="/user3/user.html"
+			window.location.href="/user3/index.html"
 		}
 		if(username=="4" && password=="4"){
-			window.location.href="/user4/user.html"
+			window.location.href="/user4/index.html"
 		}
 		
 	}
